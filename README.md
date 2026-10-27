@@ -65,6 +65,4 @@ Open `ipl_auction_simple.ipynb` and run the cells sequentially.
 * Explore player auction data.
 * Generate visualizations and meaningful insights.
 
-## 👨‍💻 Author
 
-Srilinith Udhayakumar
